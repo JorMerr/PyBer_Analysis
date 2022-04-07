@@ -10,7 +10,7 @@ Finally, the following report will summarize the differences between each city t
 
 Analysis of PyBer Ride Sharing data shows several clear differences between ride-sharing data based on city type, as can be seen on the summary dataframe below.
 
-![Pyber Summary DataFrame](https://github.com/JorMerr/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
+![Pyber Summary DataFrame](https://github.com/JorMerr/PyBer_Analysis/blob/main/analysis/pyber_summary_df.PNG)
 
 1- The number of Total Rides per city increases as the population density of the city type increases.
 
@@ -41,3 +41,11 @@ This difference is visible when comparing the Average Fare per Driver between th
 
 ## Summary
 
+The final recommendations of this report to the CEO as a means of addressing disparities among city types are as follows.
+
+1- Further analysis to determine the average distance per ride. This will allow for more clear indication of the type of ride per city type, such as how far the destination must be for users to request PyBer Ride Sharing in each city type.
+
+2- Analysis of data to determine the number of riders per ride in each city type. The number of riders, whether all going to the same location or new riders joining partway through a trip, will help determine the preference of users to allow for sharing rides with other users.
+
+3- The analysis did not take in account any premium fare pricing, or discounted fare programs or times. 
+Dedicated analysis for premium and discounted fare times may indicate further business potential, such as dedicated assignment for Ride Sharing provided by PyBer at large events (concerts, sporting events, festivals, etc.), and whether these locations would be suitable for additional advertising. Initial assumptions would appear the indicate that Rural markets are less likely to benefit for premium pricing and services.

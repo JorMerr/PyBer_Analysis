@@ -3,10 +3,12 @@
 
 The purpose of this analysis project is to calculate the total weekly fares of PyBer Ride Sharing per city type (Urban, Suburban, and Rural). The analysis will include a multiple-line graph showing data for the date range of 2019-01-01 through 2019-04-28.
 
-Finally, the following report will summarize the differences between each city type in order for PyBer management to make future business decisions.
+Finally, the following report will summarize the differences between each city type in order for PyBer management to make future business decisions, and will include additional recommendations for further analysis.
 
 
 ## Results
+
+### Analysis
 
 Analysis of PyBer Ride Sharing data shows several clear differences between ride-sharing data based on city type, as can be seen on the summary dataframe below.
 
@@ -23,6 +25,8 @@ Analysis of PyBer Ride Sharing data shows several clear differences between ride
 5- The Average Fare per Driver decreases as the population density of the city type increases.
 
 The above trends appear to indicate that as the population of a city increases there is more market for ride-sharing services for travel. This increase in the number of drivers and the number of rides in an Urban city results in a larger total value of fares collected, while the Average Fare per Ride and the Average Fare per Driver decreases.
+
+### Assumptions
 
 Based on the data, some assumptions may be drawn regarding the rides based on city type. 
 
